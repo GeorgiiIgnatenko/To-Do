@@ -1,0 +1,8 @@
+.todoDone {
+	text-decoration: line-through;
+	font-style: italic;
+	color: gray;
+}
+#actionPanel2{
+	display: none;
+}
